@@ -70,3 +70,22 @@ section.about .download{
     height: 45px;
     margin: 0 auto;
 }
+
+section.contact{
+    padding: 70px;
+    background-color: yellow;
+}
+
+section.contact .title{
+    background-color: blue;
+    width: 370px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+section.contact .form{
+    background-color: green;
+    width: 950px;
+    height: 410px;
+    margin: 0 auto;
+}
