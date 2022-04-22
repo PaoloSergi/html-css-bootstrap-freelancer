@@ -28,6 +28,10 @@ header .col-auto>nav{
     margin: 70px auto;
 }
 
+section.portfolio{
+    padding: 80px 0;
+}
+
 section.portfolio h2{
     text-align: center;
 }
@@ -45,4 +49,24 @@ section.portfolio figure .pic{
     width: 360px;
     height: 260px;
     background-color: #0e38b5;
+}
+
+section.about{
+    background-color: #1abc9c;
+    /* height: 490px; */
+    padding: 70px;
+}
+
+section.about .title{
+    background-color: white;
+    width: 380px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+section.about .download{
+    background-color: white;
+    width: 140px;
+    height: 45px;
+    margin: 0 auto;
 }
