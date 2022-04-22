@@ -27,3 +27,22 @@ header .col-auto>nav{
     background-color: white;
     margin: 70px auto;
 }
+
+section.portfolio h2{
+    text-align: center;
+}
+
+section.portfolio figure{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section.portfolio figure .pic{
+    width: 360px;
+    height: 260px;
+    background-color: #0e38b5;
+}
