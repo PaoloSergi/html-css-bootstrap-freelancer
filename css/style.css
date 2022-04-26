@@ -150,7 +150,8 @@ footer{
 
 footer .credits{
     height: 110px;
-    width: 350px;background-color: white;
+    width: 350px;
+    background-color: white;
     margin: 70px auto;
 }
 
